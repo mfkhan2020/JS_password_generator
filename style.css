@@ -1,0 +1,23 @@
+body{
+    background-color: lightsteelblue;
+    
+    
+    
+}
+h1{
+    color: blueviolet;
+}
+h3{
+    color: teal;
+}
+span{
+    color: red;
+}
+.container{
+    border: solid darkblue;
+    border-radius: 25px;
+    text-align: center;
+    width: fit-content;
+    padding: 30px;
+    margin: 300px auto;
+}
